@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Saison Alambik", "Saison Alambik\Saison Alambik.vbproj", "{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|x64.Build.0 = Release|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{AFA71DFA-CFB9-4FB9-BC09-42E4299FE1EE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774D988D-88C7-4A3A-B78C-6DD3BA96713D}
+	EndGlobalSection
+EndGlobal
